@@ -4,7 +4,6 @@ import (
 	"encoding/json"
 	"testing"
 
-	. "github.com/sideshow/apns2/payload"
 	"github.com/stretchr/testify/assert"
 )
 
